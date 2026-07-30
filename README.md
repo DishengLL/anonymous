@@ -1,6 +1,6 @@
 # Anonymous Repository
 
-This anonymous repository provides qualitative examples and performance comparisons between the proposed method and baseline approaches under both multi-view and single-view settings.
+This anonymous repository provides qualitative examples of the proposed method under both multi-view and single-view settings.
 
 > **Note:** The PDF preview provided by the web interface may occasionally suffer from rendering issues, where some text or annotations are not displayed correctly. Please use the **Raw** or **Download** option to access the original PDF files for complete visualization:
 >
