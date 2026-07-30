@@ -2,6 +2,11 @@
 
 This anonymous repository provides qualitative examples and performance comparisons between the proposed method and baseline approaches under both multi-view and single-view settings.
 
+> **Note:** Due to PDF rendering issues in the web preview, some text or annotations may not be displayed correctly. Please open the original PDF files through the following links for the complete visualization:
+>
+> - [multiview.pdf](https://anonymous.4open.science/r/anonymous-31B2/multiview.pdf)
+> - [single-view.pdf](https://anonymous.4open.science/r/anonymous-31B2/single-view.pdf)
+
 ## Qualitative Examples
 
 ### Single-view Setting (RefCOCO)
