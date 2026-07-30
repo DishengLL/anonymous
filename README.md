@@ -1,18 +1,8 @@
 # Anonymous Repository
 
-This anonymous repository provides demonstration results and performance comparisons between the proposed method and baseline approaches under both multi-view and single-view settings.
-
-## Demo Results
-
-- **single_image.pdf**
-  Demonstrates the inference pipeline under the single-view setting on the RefCOCO+ dataset and provides qualitative comparisons between our method and SpatialReasoner on representative examples.
-
-- **multi_image.pdf**
-  Demonstrates the inference pipeline under the multi-view setting on the ScanNet dataset and provides qualitative comparisons between our method and VG-LLM on representative examples.
+This anonymous repository provides qualitative examples and performance comparisons between the proposed method and baseline approaches under both multi-view and single-view settings.
 
 ## Qualitative Examples
-
-
 
 ### Single-view Setting (RefCOCO)
 
