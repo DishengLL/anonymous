@@ -4,8 +4,8 @@ This anonymous repository provides qualitative examples and performance comparis
 
 > **Note:** The PDF preview provided by the web interface may occasionally suffer from rendering issues, where some text or annotations are not displayed correctly. Please use the **Raw** or **Download** option to access the original PDF files for complete visualization:
 >
-> - [multiview.pdf (Raw)](https://anonymous.4open.science/api/repo/anonymous-31B2/file/multiview.pdf?v=06b27b75)
-> - [single-view.pdf (Raw)](https://anonymous.4open.science/api/repo/anonymous-31B2/file/single-view.pdf?v=06b27b75)
+> - [multiview.pdf (Raw)](https://anonymous.4open.science/api/repo/anonymous-31B2/file/multiview.pdf)
+> - [single-view.pdf (Raw)](https://anonymous.4open.science/api/repo/anonymous-31B2/file/single-view.pdf)
 
 ## Qualitative Examples
 
