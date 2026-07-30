@@ -2,10 +2,10 @@
 
 This anonymous repository provides qualitative examples and performance comparisons between the proposed method and baseline approaches under both multi-view and single-view settings.
 
-> **Note:** Due to PDF rendering issues in the web preview, some text or annotations may not be displayed correctly. Please open the original PDF files through the following links for the complete visualization:
+> **Note:** The PDF preview provided by the web interface may occasionally suffer from rendering issues, where some text or annotations are not displayed correctly. Please use the **Raw** or **Download** option to access the original PDF files for complete visualization:
 >
-> - [multiview.pdf](https://anonymous.4open.science/api/repo/anonymous-31B2/file/multiview.pdf?v=06b27b75)
-> - [single-view.pdf](https://anonymous.4open.science/api/repo/anonymous-31B2/file/single-view.pdf?v=c2ebd6a5)
+> - [multiview.pdf (Raw)](https://anonymous.4open.science/api/repo/anonymous-31B2/file/multiview.pdf?v=06b27b75)
+> - [single-view.pdf (Raw)](https://anonymous.4open.science/api/repo/anonymous-31B2/file/single-view.pdf?v=06b27b75)
 
 ## Qualitative Examples
 
