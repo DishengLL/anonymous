@@ -4,10 +4,10 @@ This anonymous repository provides demonstration results and performance compari
 
 ## Demo Results
 
-- **single_image_demo.pdf**
+- **single_image.pdf**
   Demonstrates the inference pipeline under the single-view setting on the RefCOCO+ dataset and provides qualitative comparisons between our method and SpatialReasoner on representative examples.
 
-- **multi_image_demo.pdf**
+- **multi_image.pdf**
   Demonstrates the inference pipeline under the multi-view setting on the ScanNet dataset and provides qualitative comparisons between our method and VG-LLM on representative examples.
 
 ## Qualitative Examples
